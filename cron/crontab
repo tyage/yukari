@@ -1,0 +1,2 @@
+0 14 * * *  /data/videos/encode.sh > /dev/null 2>&1
+0 2 * * *  ~/Dropbox/VPN/update.sh > /dev/null 2>&1
